@@ -85,6 +85,10 @@ A Streamlit web application was developed to:
 ```bash
 pip install -r requirements.txt
 python -m streamlit run app.py
+```
+
+---
+
 
 ## 7. Deployment
 The Streamlit web application is deployed and accessible at:
